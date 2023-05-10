@@ -1,0 +1,27 @@
+{
+	"Format": "1.29.1",
+	"Changes": [ 
+	    {
+	            "LogName": "Sprite",
+	            "Action": "Load",
+	            "Target": "Characters/Incognito",
+	            "FromFile": "assets/img/sprite.png"
+	    },
+	    
+	    {
+	            "LogName": "Portraits",
+	            "Action": "Load",
+	            "Target": "Portrait/Incognito",
+	            "FromFile": "assets/img/Portrait.png"
+	    },
+	    
+	    {
+	        "LogName": "NPC Manifestation",
+	        "Action": "EditData",
+	        "Target": "Data/NPC Dispositions",
+	        "Entries": {
+	            "Incognito": "adult/polite/outgoing/positive/female/non-datable/null/Town/ fall 13//BusStop 22 5/Incognito"
+	        }
+	    }
+	    ]
+}

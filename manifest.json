@@ -1,0 +1,11 @@
+{
+	"Name": "New Character Text",
+	"Author": "Tails",
+	"Description": "Adds a new character to Stardew Valley",
+	"Version": "0.0.1",
+	"UniqueID": "Tails.incognito",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": [ "" ]
+}
